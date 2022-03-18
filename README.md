@@ -25,4 +25,5 @@ I am Lucas Torchelsen Schmidt👋
   <a href="https://instagram.com/__schmidtlucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucas-schmidt-76a806212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+<img align="center" src="https://github.com/lucasschmidt015/lucasschmidt015/blob/output/github-contribution-grid-snake.gif">
   
