@@ -3,14 +3,14 @@ I am Lucas Torchelsen Schmidt👋
 - 🌱 Computer science - UFFS
 <div align="center">
   <a href="https://github.com/lucasschmidt015">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasschmidt015&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschmidt015&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasschmidt015&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschmidt015&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasschmidt015&theme=monokai">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasschmidt015&theme=great-gatsby">
 </div>
 <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=lucasschmidt015&theme=nord&column=7&theme=monokai" >
+<img src="https://github-profile-trophy.vercel.app/?username=lucasschmidt015&theme=nord&column=7&theme=great-gatsby" >
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
