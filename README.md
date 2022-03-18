@@ -9,6 +9,8 @@ I am Lucas Torchelsen Schmidt👋
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasschmidt015&theme=dark">
 </div>
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=lucasschmidt015&theme=nord&column=7" >
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
