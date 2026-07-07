@@ -13,11 +13,7 @@
 <br/>
 
 <!-- ==================== ABOUT ==================== -->
-<table align="center" width="100%">
-  <tr>
-    <td width="58%" valign="top">
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 💻 &nbsp;**Full-Stack Developer** — backend, web & mobile
 - ⚡ &nbsp;**4+ years** building with **JavaScript** & **TypeScript**
@@ -25,13 +21,6 @@
 - 📱 &nbsp;Cross-platform mobile with **React Native**
 - 🗄️ &nbsp;Comfortable with **SQL**, ORMs & caching at scale
 - 📫 &nbsp;Reach me through the links below
-
-</td>
-    <td width="42%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lucasschmidt015&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" width="100%" alt="stats" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -85,6 +74,7 @@
 
 ### 📊 GitHub Stats
 
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasschmidt015&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="stats" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschmidt015&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000" alt="top langs" />
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasschmidt015&theme=radical&hide_border=true&background=00000000" alt="streak" />
 
